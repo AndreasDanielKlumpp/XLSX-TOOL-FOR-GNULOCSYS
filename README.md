@@ -48,7 +48,7 @@ XLSX TOOL FOR GNULOCSYS is written by A.D.Klumpp. Copyright (C) 2016 A.D.Klumpp.
 GNULOCSYS is released under the terms of the GNU General Public License (v3). 
 XLSX TOOL FOR GNULOCSYS is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. 
 The full copyright notices and the full license texts shall be included in all copies or substantial portions of the Software. 
-This distribution of XLSX TOOL FOR GNULOCSYS is using the libraries MySQL Connector/J 5.1.40 and Apache-poi-java. 
+
 
 
 
