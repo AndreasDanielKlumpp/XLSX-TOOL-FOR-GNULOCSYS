@@ -37,6 +37,12 @@ xmlbeans-2.6.0.jar
 
 mysql-connector-java-5.1.40-bin.jar
 
+-------------------------------
+
+Start the program with: java -jar xlsxtool030sub.jar
+
+-------------------------------
+
 
 XLSX TOOL FOR GNULOCSYS is written by A.D.Klumpp. Copyright (C) 2016 A.D.Klumpp. 
 GNULOCSYS is released under the terms of the GNU General Public License (v3). 
