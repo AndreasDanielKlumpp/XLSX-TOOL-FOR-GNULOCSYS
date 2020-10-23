@@ -3,9 +3,9 @@ XLSX TOOL FOR GNULOCSYS
 
 Please download the Apache POI .jars 3.15 
 
-and mysql-connector-java-5.1.40-bin.jar and insert these
+and mysql-connector-java-5.1.40-bin.jar and insert the following
 
-jar files into the _lib forlder
+jar files into the _lib folder:
 
 
 commons-codec-1.10.jar
